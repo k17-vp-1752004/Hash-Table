@@ -1,4 +1,7 @@
 
+## Description
+  - Projet Table de Hachage (Hash table project)
+  - Resoudre problème collision par double hachage(double-hashing), Quadratique Rehachage (Quadratic Probing), Lineair Rehachage (Linear Probing)a
 ## Structure de répertoire
  - Fichier cle.h, infoassociee.h: Définir les deux types de données: Cle et InfoAssociee
 
