@@ -1,8 +1,8 @@
 
-## Description
+## 1. Description
   - Projet Table de Hachage (Hash table project)
   - Resoudre problème collision par double hachage(double-hashing), Quadratique Rehachage (Quadratic Probing), Lineair Rehachage (Linear Probing)a
-## Structure de répertoire
+## 2. Structure de répertoire
  - Fichier cle.h, infoassociee.h: Définir les deux types de données: Cle et InfoAssociee
 
  - Fichier element.h, element.cpp: Définir et implémenter class template Element pour stocker 1 élément dans la table de hachage 
@@ -21,7 +21,7 @@
 
  - Fichier main.cpp: compiler pour voir comment ca marche une table de hachage	
 
-## Les commandes pour makefile:
+## 3. Les commandes pour makefile:
  - make: compiler fichier
  - make run: compiler le programme main.cpp
  - make run-test data=<nom_fichier>: lancer le programme qui permet de calculer efficacité de la table de hachage avec les données stockés dans fichier <nom_fichier> 
