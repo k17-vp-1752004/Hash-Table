@@ -1,4 +1,5 @@
-﻿* Structure de répertoire
+
+## Structure de répertoire
  - Fichier cle.h, infoassociee.h: Définir les deux types de données: Cle et InfoAssociee
 
  - Fichier element.h, element.cpp: Définir et implémenter class template Element pour stocker 1 élément dans la table de hachage 
@@ -17,7 +18,7 @@
 
  - Fichier main.cpp: compiler pour voir comment ca marche une table de hachage	
 
-* Les commandes pour makefile:
+## Les commandes pour makefile:
  - make: compiler fichier
  - make run: compiler le programme main.cpp
  - make run-test data=<nom_fichier>: lancer le programme qui permet de calculer efficacité de la table de hachage avec les données stockés dans fichier <nom_fichier> 
